@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crewmate-matching/static/css/main.37e80007.chunk.css",
+    "main.js": "/crewmate-matching/static/js/main.7f697a7d.chunk.js",
+    "main.js.map": "/crewmate-matching/static/js/main.7f697a7d.chunk.js.map",
+    "runtime-main.js": "/crewmate-matching/static/js/runtime-main.9d7e70e9.js",
+    "runtime-main.js.map": "/crewmate-matching/static/js/runtime-main.9d7e70e9.js.map",
+    "static/js/2.90081d31.chunk.js": "/crewmate-matching/static/js/2.90081d31.chunk.js",
+    "static/js/2.90081d31.chunk.js.map": "/crewmate-matching/static/js/2.90081d31.chunk.js.map",
+    "index.html": "/crewmate-matching/index.html",
+    "precache-manifest.be7715638cd362f2999552407477e6c8.js": "/crewmate-matching/precache-manifest.be7715638cd362f2999552407477e6c8.js",
+    "service-worker.js": "/crewmate-matching/service-worker.js",
+    "static/css/main.37e80007.chunk.css.map": "/crewmate-matching/static/css/main.37e80007.chunk.css.map",
+    "static/js/2.90081d31.chunk.js.LICENSE.txt": "/crewmate-matching/static/js/2.90081d31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d7e70e9.js",
+    "static/js/2.90081d31.chunk.js",
+    "static/css/main.37e80007.chunk.css",
+    "static/js/main.7f697a7d.chunk.js"
+  ]
+}
